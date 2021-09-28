@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on improving my programming skills.
 - 🌱 I’m currently learning Android Development.
-- 🎓 I’m currently in my last year of college.
+- 🎓 I'm a college graduate.
 - 🤔 I’m looking for help with Machine Learning Reasearch
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a pretty big fan of fighting games
